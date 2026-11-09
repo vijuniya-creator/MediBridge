@@ -1,0 +1,19 @@
+{
+  "name": "medibridge",
+  "version": "1.1.0",
+  "description": "Bridging People and Smarter Healthcare - Personal Health Companion with Google Gemini AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "healthcare",
+    "wellness",
+    "gemini-ai",
+    "reminders",
+    "appointments",
+    "localstorage"
+  ],
+  "author": "MediBridge",
+  "license": "MIT"
+}
